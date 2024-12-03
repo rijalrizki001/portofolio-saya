@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #3a0577;
+}
+
+#About {
+  background-color: white;
+}
+
+#projects {
+  background-color: #3a0577;
+}
+
+#geolocation {
+  background-color: #3a0577;
+}
+
+section {
+  padding-top: 5rem;
+}
